@@ -1,0 +1,12 @@
+let x = 5 ;
+let y = 7 ;
+let z = 9 ;
+console.log( (x + y + z) / 3) ;
+x = -2 ;
+y = -3 ;
+z = -8 ;
+console.log( (x + y + z) / 3) ;
+x = -1.2 ;
+y = 5.3 ;
+z = -3.3 ;
+console.log( (x + y + z) / 3) ;
